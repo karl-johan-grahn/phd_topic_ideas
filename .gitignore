@@ -1,0 +1,7 @@
+# MacOS Desktop Services Store
+.DS_Store
+
+# Vocabulary
+styles/**/*.*
+# Local vocabulary overrides
+!styles/config/vocabularies/my/*.*
