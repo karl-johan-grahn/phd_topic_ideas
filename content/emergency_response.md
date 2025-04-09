@@ -43,7 +43,7 @@ This research will be relevant for the next 10-15 years because over the past de
 * How does context-switching from emergency response affect short-term and long-term performance
 * Is the context-switching cost different for unplanned emergencies and planned work
 * How to keep people motivated to be in a sustained sense of awareness for prolonged time, except for bonus payment
-* Is root cause analysis about preventing future mistakes, or about learning what happened, compare with [Etsy's blog](https://www.etsy.com/codeascraft/blameless-postmortems)
+* Is root cause analysis about preventing future mistakes, or about learning what happened, compare with Allspaw (2012)
 
 ## Research design
 
@@ -75,6 +75,7 @@ This research will be relevant for the next 10-15 years because over the past de
 * Deloitte (2021). [SAAS Industry Outlook: Time to Ride the Wave](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/technology-media-telecommunications/deloitte-cn-tmt-saas-trend-en-211228.pdf) (Accessed: 31 March 2025).
 * Johansson, Y. (2025). '`Expert: Total livsförändring behövs för att bryta utmattning`', Sydsvenskan, 2 April. Available at: `https://www.sydsvenskan.se/2025-04-02/expert-total-livsforandring-behovs-for-att-bryta-utmattning/` (Accessed: 2 April 2025).
 * Ploeg, E.V., & Kleber, R.J. (2003). Acute and chronic job stressors among ambulance personnel: predictors of health symptoms. Occupational and Environmental Medicine, 60, i40 - i46.
+* Allspaw, J. (2012) Blameless PostMortems and a Just Culture. Available at: `https://www.etsy.com/codeascraft/blameless-postmortems` (Accessed: 9 April 2025).
 
 ## Method
 
