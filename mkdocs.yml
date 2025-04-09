@@ -1,0 +1,22 @@
+docs_dir: content
+edit_uri: blob/main/content/
+plugins:
+- search
+repo_url: https://github.com/karl-johan-grahn/phd_topic_ideas
+site_name: PhD topic ideas
+#site_url: https://
+strict: true
+use_directory_urls: false
+theme:
+  name: material
+  palette:
+    primary: green
+copyright: Copyright &copy; 2025 Karl Johan Grahn
+nav:
+  - index.md
+  - emergency_response.md
+  - intrapreneurship.md
+  - efficiency.md
+  - cloud_computing.md
+  - misc.md
+  - ssf.md
