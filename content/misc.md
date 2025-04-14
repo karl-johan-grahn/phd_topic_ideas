@@ -40,7 +40,6 @@
 * Behavioral economic techniques in negotiation and marketing
 * Break department barriers between R&D and Sales
 * Improve communication between production and marketing to improve SaaS capacity planning
-* EI assessment - performance management tool for assessing if colleagues understand their emotional reactions, and how well they think you understand them. Ask people from another culture or someone with disability. Ask internal or external customers how well you appear to understand their position. Size up a coworker or manager as best as you can. Record your observations and test them against how that person performs or behaves many months later.
 * Can everybody get wealthier, without anyone getting poorer
     * If income levels are increasing for everyone, who gets poorer
     * Similarly, can everyone at a company improve their career progression, without anyone falling behind
