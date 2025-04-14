@@ -8,7 +8,7 @@ The following needs to be included in the application:
     * The necessary practical arrangements are in place
     * Supervisors have the support and time allocated for this research
 * Brief description and required qualifications of the prospective doctoral student.
-    * I am interested in executing an industrial PhD, with the motivation to improve society through knowledge creation. My motive is purely from a knowledge perspective, I do not have any ambition to become a full-time scholarly researcher, I rather want to improve efficiency in the software industry by being a broker between research focused universities and profit focused business ventures.
+    * I am interested in executing an industrial PhD, with the motivation to improve society through knowledge creation. I want to improve efficiency in the software industry in collaboration with research focused universities and profit focused business ventures.
 * Strategic relevance and expected societal impact in a 10-15-year time-frame.
 * Description of how intellectual property rights contractually will be handled.
     * IP rights
