@@ -57,6 +57,8 @@ Efficiency should be flexible to define, for example by using Data Envelopment A
 
 ## Theory/literature
 
+* Spence, M. (1973). Job Market Signaling. The Quarterly Journal of Economics, 87(3), 355–374. `https://doi.org/10.2307/1882010`
+
 ## Method
 
 * Model beat plan as assignment problem to optimise resource use, while considering learning objectives
