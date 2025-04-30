@@ -1,9 +1,9 @@
 # MacOS Desktop Services Store
 .DS_Store
 
-# Vocabulary
+# Exclude vocabulary because it comes as a package from Vale
 styles/**/*.*
-# Local vocabulary overrides
+# Local vocabulary overrides should not be excluded
 !styles/config/vocabularies/my/*.*
 
 site
