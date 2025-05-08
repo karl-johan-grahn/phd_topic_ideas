@@ -8,8 +8,6 @@ Algorithms have played an important part in everyday life for millenniums, for e
 
 In the last decades, with the growth of network infrastructure and increase in compute resources, algorithms have become more present in organizations. With research in data structures and algorithms, they are starting to assist in almost all management tasks that are traditionally performed by humans, such as increasing self-awareness, get feedback, set goals, set priorities, coaching, empowerment, delegation, motivation, conflict resolution, selling, strategy making, marketing, support, project-planning, monitoring, recruitment, retention, training, mentoring, ethics, and morality. If this evolution continues without research, reflection, and constructive criticism, it can lead to the scenario that we get managers without the human touch.
 
-Milanez et al. (2025) did a survey of algorithmic management in the workplace, and highlights the need for additional research to ensure trustworthy use of it. They suggest five focus areas for further research. First, there is a need to understand the mechanisms by which algorithmic management tools improve managerial decision-making. Second, what impact does algorithmic management have on followers. Third, how does each type of algorithmic management tool influence outcomes and trustworthiness. Fourth, how do the outcomes vary with time since adoption. Fifth, what are the governance measures to consider.
-
 Although management is primarily a functional process, it does serve a social process. As such, management cannot be entirely outsourced to computer-mediated technology, yet neither can it remain completely outside of algorithmic development. Management decisions can be categorized as deterministic or non-deterministic, and based on individualistic or community preferences, with a whole spectrum of possible positions between the extremes:
 
 ```mermaid
@@ -31,55 +29,35 @@ quadrantChart
 
 Similar to the problem of social cost (Coase, 2013), the problem of management cost is also about social arrangements. Coase (2013) advocates considering the total effect when analyzing social arrangements. Similarly, in creating and choosing between management arrangements we should have regard for the total effect. Avoid suboptimization and use an opportunity cost approach.
 
-Although keystrokes might be excessive and against GDPR, it is still used in some countries. The question is, what is excessive and what is not?
-
-From private conversations over the years, it is clear that not all software engineers want to become managers. Modig (2023) did a well-attended presentation about the desire of staying as a developer in your entire career. Given there is a need for the management role, and not everyone wants to pursue it, to which extend can it be automated with algorithms?
-
 ## State of the art
 
-At the European level, there is a shortage of research which examines the pervasiveness and impacts on
-working conditions, of digital monitoring and surveillance in the regular and platform economies (Macias et al., 2023).
+Milanez et al. (2025) did a survey of algorithmic management in the workplace, and highlights the need for additional research to ensure trustworthy use of it. The authors suggest five focus areas for further research. First, there is a need to understand the mechanisms by which algorithmic management tools improve managerial decision-making. Second, what impact does algorithmic management have on individual contributors. Third, how does each type of algorithmic management tool influence outcomes and trustworthiness. Fourth, how do the outcomes vary with time since adoption. Fifth, what are the governance measures to consider.
 
-Macias et al. (2023) identified two main types currently in use: algorithmic direction and algorithmic evaluation.
+Macias et al. (2023) identified two main types of algorithmic management currently in use: algorithmic direction and algorithmic evaluation. At the European level, there is a shortage of research which examines the pervasiveness and impacts on working conditions, of digital monitoring and surveillance in the regular and platform economies (Macias et al., 2023).
+
+Ball (2021) evaluated literature on electronic monitoring and surveillance in the workplace, and recommends future research on topics related to algorithmic management:
+
+* The development of high trust employee monitoring practices
+* Technical and practical ways in which employees can gain autonomy over data collection and
+sharing and the impact on performance and efficiency
+
+From private conversations over the years, it is clear that not all software engineers want to become managers. Modig (2023) did a well-attended presentation about the desire of staying as a developer in your entire career. Given there is a need for the management role, and not everyone wants to pursue it, to which extend can it be automated with algorithms?
 
 ## Questions/hypotheses
 
 "And all that I can see is just another lemon tree" (Fool's Garden)
 
-The central question to analyze is how to get benefits from algorithmic management, without making people just see "another lemon tree", that is, how to keep them motivated and challenged.
+The central question to analyze is how to benefit from algorithmic management in terms of total productivity, without making people just see "another lemon tree", that is, without reducing their trust and motivation in their workplace.
 
-* what is the role of leadership in this context
-* how is leader-follower relationship affected by optimization of match quality
-* how much emotions are needed
-* How can algorithms encourage managers to reward sound decision making, instead of only rewarding results?
-* What are the implications of being in the different positions in the quadrants? The focus is not on finding an optimal position, but the implications of being in the different positions.
-* How can algorithms help minimize the computational cost of interacting with each other?
-* Which tasks and responsibilities should be automated, and which tasks and responsibilities should belong to humans?
+Specifically, these questions are relevant:
 
-Different perspectives to look at this problem:
-
-* As a change management issue
-* Compare with history how similar changes were received
-
-* How is trust and authority built, maintained or eroded with algorithmic management
-* How does algorithmic management affect emotions and efficiency on the long-term and short-term
-* What are the signaling costs when using algorithmic management
-* Group efficiency: Optimal number of people in software development teams in terms of economic productivity
-* Which performance-based incentives are relevant for engineers
-* What is the optimal team size with respect to experience and career goals
-* What is the role of managers, if everyone is skilled enough
-* How does the different mood states of an individual affect team efficiency, for example positive versus negative moods
-* How does stress affect team performance
-* Trust-based management versus monitoring
-* How to use DEA to measure software development output
-* Learning curve application for onboarding new software developers (how introduction material and onboarding will help developer quickly get up to speed compared to getting nothing at all, who needs intro, how much, how to deliver it to lowest cost, etc.)
-* Develop pool of organizational successors - tool to help evaluate the extent of the organisations' pending shortage, needed competencies, identify individuals for possible inclusion in pool, establish individually tailored development programs for high-potential candidates, select and place people into senior jobs based on their performance, continuously monitor the program
-* EI assessment - performance management tool for assessing if colleagues understand their emotional reactions, and how well they think you understand them. Ask people from another culture or someone with disability. Ask internal or external customers how well you appear to understand their position. Size up a coworker or manager as best as you can. Record your observations and test them against how that person performs or behaves many months later.
-* How to make sure topics such as UX design patterns are continuously reinforced for all members without repeating or duplicating teaching
-* The culture of continuous learning in contemporary society may also lead to a fear of not learning enough, I have talked to many members who are unsure about their future although I can clearly see they are continuously learning
-* How to retain members - is it inherent to the equilibria of the retention model that they will stay a short time
-* Enormous pressure you have to use the latest technologies, seldom reflect on what is actually needed, focus becomes more on technology than business value
-* There is a value in unlearning as well
+* How can algorithms encourage managers to reward sound decision making, instead of rewarding results? That is, how can it encourage employees to focus on processes and not results?
+* What are the implications of being in the different positions in the algorithmic management quadrants? The focus is not on finding an optimal position, but understanding the implications for leaders and contributors of being in the different positions.
+    * Which management tasks and responsibilities should be deterministic, and which should be non-deterministic?
+    * How do algorithms affect the human computational cost of interacting with each other? That is, do they simplify or problematize the contact between management and individual contributors?
+    * How is trust and authority built, maintained or eroded with algorithmic management
+    * How does algorithmic management affect emotions and efficiency on the long-term and short-term
+    * What are the signaling costs when using algorithmic management
 
 ## Research design
 
@@ -102,6 +80,7 @@ Different perspectives to look at this problem:
 
 ## Theory/literature
 
+* Ball, K. (2021) Electronic Monitoring and Surveillance in the Workplace, Publications Office of the European Union, Luxembourg, ISBN 978-92-76-43340-8.
 * Barjamovic, G., Gonzalez, P. J., Graham, C. A., Lassen, A. W., Narsallah, N. and Sörensen, P. M. (2019) The Ancient Mesopotamian Tablet as Cookbook. Lapham’s Quarterly. `https://www.laphamsquarterly.org/roundtable/ancient-mesopotamian-tablet-cookbook`
 * Bazerman, M. H. and Moore, D. A. (2017) Judgment in Managerial Decision Making. Wiley Custom.
 * Coase, R. H. (2013). The Problem of Social Cost. The Journal of Law & Economics, 56(4), 837–877. `https://doi.org/10.1086/674872`
@@ -113,6 +92,12 @@ Different perspectives to look at this problem:
 * The Editors of Encyclopaedia Britannica (2025). Al-Khwarizmi | Biography & Facts. Encyclopedia Britannica. `https://www.britannica.com/biography/al-Khwarizmi`
 
 ## Method
+
+Different perspectives to look at this problem:
+
+* As a change management issue
+* Compare with history how similar changes were received
+
 
 * Use opportunity cost approach for different algorithm situations
 
