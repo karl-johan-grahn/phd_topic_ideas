@@ -47,70 +47,71 @@ From private conversations over the years, it is clear that not all software eng
 
 "And all that I can see is just another lemon tree" (Fool's Garden)
 
-The central question to analyze is how to benefit from algorithmic management in terms of total productivity, without making people just see "another lemon tree", that is, without reducing their trust and motivation in their workplace.
+The central question to analyze is how to benefit from algorithmic management in terms of total productivity, without making people just see another lemon tree, that is, without reducing their trust and motivation in the workplace.
 
-Specifically, these questions are relevant:
+Specifically, these questions are relevant for this project:
 
-* How can algorithms encourage managers to reward sound decision making, instead of rewarding results? That is, how can it encourage employees to focus on processes and not results?
+* How can algorithms encourage managers to reward sound decision making, instead of rewarding results? How can it encourage employees to focus on processes and not results?
 * What are the implications of being in the different positions in the algorithmic management quadrants? The focus is not on finding an optimal position, but understanding the implications for leaders and contributors of being in the different positions.
     * Which management tasks and responsibilities should be deterministic, and which should be non-deterministic?
-    * How do algorithms affect the human computational cost of interacting with each other? That is, do they simplify or problematize the contact between management and individual contributors?
+    * How do algorithms affect the human computational cost of interacting with each other? Do they simplify or make the social interaction between managers and individual contributors more problematic?
     * How is trust and authority built, maintained or eroded with algorithmic management
     * How does algorithmic management affect emotions and efficiency on the long-term and short-term
     * What are the signaling costs when using algorithmic management
 
+Examples of algorithmic management:
+
+* How can linear programming help to optimize task assignment on organizational level instead of on team level, with cross-training considered?
+* For which types of management tasks will AHP be helpful in making decisions in software development?
+* How much monitoring and assessment is needed to help in develop a pool of organizational successors?
+
+Examples of non-deterministic behavior:
+
+* How can small management behavior drastically improve the well-being of a stressed team, such as saying good morning to everyone in a friendly voice?
+* Emotional intelligence test to assess if colleagues understand their emotional reactions, and how well they think their manager understand them
+* Fear test to assess if colleagues are afraid of something such as missing out on knowledge, or uncomfortable with their own manager or a colleague or team
+
 ## Research design
 
-* Data driven
-    * Analyze efficiency over time
-* Evaluate software development efficiency
-    * Data Envelopment Analysis
-        * Code commits
-        * Issues resolved per sprint
-        * Number of employees in team
-    * Together with AHP/ANP
-        * Team goal
-        * Decide on criteria
-        * Use criteria to evaluate task priority
-* Model team organization as a continuous optimization problem of match quality
-    * Business requirements and candidates continuously change
-    * Members can rotate and leave at arbitrary times
-    * Link it with DEA
-* Interview people randomly in large numbers and ask them who they think the most efficient professionals are
+Suggestions for different perspectives of analyzing this project:
 
-## Theory/literature
+* Understand which management tasks are necessary in knowledge-intensive organizations, and compare how they affect team performance when they are done with algorithms versus manually
+* Algorithmic management is a change management initiative, so take inspiration from change management literature
+* Compare how similar change initiatives over the history have been received by co-workers, this gives an outside perspective
+* Use opportunity cost approach to analyze which tasks and behavior should be algorithmic
 
-* Ball, K. (2021) Electronic Monitoring and Surveillance in the Workplace, Publications Office of the European Union, Luxembourg, ISBN 978-92-76-43340-8.
-* Barjamovic, G., Gonzalez, P. J., Graham, C. A., Lassen, A. W., Narsallah, N. and Sörensen, P. M. (2019) The Ancient Mesopotamian Tablet as Cookbook. Lapham’s Quarterly. `https://www.laphamsquarterly.org/roundtable/ancient-mesopotamian-tablet-cookbook`
-* Bazerman, M. H. and Moore, D. A. (2017) Judgment in Managerial Decision Making. Wiley Custom.
-* Coase, R. H. (2013). The Problem of Social Cost. The Journal of Law & Economics, 56(4), 837–877. `https://doi.org/10.1086/674872`
-* Fernandez Macias, E., Urzi Brancati, M.C., Wright, S. and Pesole, A., The platformisation of work, EUR 31469 EN, Publications Office of the European Union, Luxembourg, 2023, ISBN 978-92-68-01661-9, doi:10.2760/801282, JRC133016.
-* Milanez, A., A. Lemmens and C. Ruggiu (2025), "Algorithmic management in the workplace: New evidence from an OECD employer survey", OECD Artificial Intelligence Papers, No. 31, OECD Publishing, Paris, `https://doi.org/10.1787/287c13c4-en`
-* Oredev Conference (2023). Tobias Modig - Get old, go slow, write code! [Video]. YouTube. `https://www.youtube.com/watch?v=Hb4M0EMyB6M`
-* Spence, M. (1973). Job Market Signaling. The Quarterly Journal of Economics, 87(3), 355–374. `https://doi.org/10.2307/1882010`
-* Spice Girls (1997). Stop [Song]. On Spiceworld [Album]. Virgin Records.
-* The Editors of Encyclopaedia Britannica (2025). Al-Khwarizmi | Biography & Facts. Encyclopedia Britannica. `https://www.britannica.com/biography/al-Khwarizmi`
+Use triangulation (Yin, 2003):
+
+* Data triangulation
+* Investigator triangulation
+* Theory triangulation
+* Methodological triangulation
+
+Risks:
+
+* How to avoid the Hawthorne Effect - subjects will be part of an experimental study, while at the same time doing their regular work
+* To avoid confirmation bias, it is important to be open to information that allows for disconfirmation
+* Use analogical reasoning to reduce bias (Bazerman and Moore, 2017)
 
 ## Method
 
-Different perspectives to look at this problem:
+The PhD-project will primarily use qualitative research methods to assess and compare the use of algorithmic management with non-deterministic management in the FinTech sector in Sweden. Qualitative methods are appropriate because the focus of the research is to understand the impact of algorithmic management on trust and motivation. Qualitative methods allows us to understand context and reasoning by focusing on the meaning, not the frequency (Ghauri et al., 2020).
 
-* As a change management issue
-* Compare with history how similar changes were received
+Qualitative methods will align well with the day-to-day expectations of the management role. For example, qualitative interviews with individual contributors will overlap with regular mentoring talks.
 
+Quantitative methods such as Data Envelopment Analysis (DEA) can be used to compare the efficiency between the experiment-groups.
 
-* Use opportunity cost approach for different algorithm situations
+## Theory/literature
 
-The PhD will use qualititative research methods to follow the development and application of algorithmic management in the tech sector in Sweden. The aim is to
-
-* Triangulation on the same set of research questions
-    * Data triangulation
-    * Investigator triangulation
-    * Theory triangulation
-    * Methodological triangulation
-* To avoid confirmation bias, it is important to be open to information that allows for disconfirmation
-* Use analogical reasoning to reduce bias (Bazerman and Moore, 2017)
-* Model beat plan as assignment problem to optimise resource use, while considering learning objectives
-* If applied on organization level, workforce assignment with cross-training defined could optimize task assignment
-* Investigate how small changes in behavior can drastically change the performance, such as saying good morning in a friendly voice
-* Sort out causality by using instrumental variables regression - vacation times for example affect volume of work but not otherwise affect outcomes
+* Ball, K. (2021). Electronic Monitoring and Surveillance in the Workplace, Publications Office of the European Union, Luxembourg, ISBN 978-92-76-43340-8.
+* Barjamovic, G., Gonzalez, P. J., Graham, C. A., Lassen, A. W., Narsallah, N. and Sörensen, P. M. (2019). The Ancient Mesopotamian Tablet as Cookbook. Lapham’s Quarterly. `https://www.laphamsquarterly.org/roundtable/ancient-mesopotamian-tablet-cookbook`
+* Bazerman, M. H. and Moore, D. A. (2017). Judgment in Managerial Decision Making. Wiley Custom.
+* Coase, R. H. (2013). The Problem of Social Cost. The Journal of Law & Economics, 56(4), 837–877. `https://doi.org/10.1086/674872`
+* Fernandez Macias, E., Urzi Brancati, M.C., Wright, S. and Pesole, A. (2023). The platformisation of work, EUR 31469 EN, Publications Office of the European Union, Luxembourg, ISBN 978-92-68-01661-9.
+* Ghauri, P., Grønhaug, K. and Strange, R. (2020). Research Methods in Business Studies (5th ed.). Cambridge: Cambridge University Press.
+* Milanez, A., A. Lemmens and C. Ruggiu (2025). "Algorithmic management in the workplace: New evidence from an OECD employer survey", OECD Artificial Intelligence Papers, No. 31, OECD Publishing, Paris, `https://doi.org/10.1787/287c13c4-en`
+* Oredev Conference (2023). Get old, go slow, write code! [Video]. YouTube. `https://www.youtube.com/watch?v=Hb4M0EMyB6M`
+* Spence, M. (1973). Job Market Signaling. The Quarterly Journal of Economics, 87(3), 355–374. `https://doi.org/10.2307/1882010`
+* Spice Girls (1997). Stop [Song]. On Spiceworld [Album]. Virgin Records.
+* The Editors of Encyclopaedia Britannica (2025). Al-Khwarizmi | Biography & Facts. Encyclopedia Britannica. `https://www.britannica.com/biography/al-Khwarizmi`
+* Yin, R. K. (2003). Case Study Research: Design and Methods. SAGE.
