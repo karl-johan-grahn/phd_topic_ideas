@@ -72,8 +72,8 @@ This research will be relevant for the next 10-15 years because over the past de
 * Wilkinson, N., & Klaes, M. (2023). An introduction to behavioral economics, third edition. Great Britain: Bloomsbury Academic.
 * Besanko, D., Dranove, D., Shanley, M., & Schaefer, S. (2017). Economics of Strategy. UK: Wiley Custom.
 * Keat, P., Young, P., & Erfle, S. (2014). Managerial Economics: Economic Tools for Today's Decision Makers. Essex: Pearson Education Limited.
-* Deloitte (2021). [SAAS Industry Outlook: Time to Ride the Wave](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/technology-media-telecommunications/deloitte-cn-tmt-saas-trend-en-211228.pdf) (Accessed: 31 March 2025).
-* Johansson, Y. (2025). '`Expert: Total livsförändring behövs för att bryta utmattning`', Sydsvenskan, 2 April. Available at: `https://www.sydsvenskan.se/2025-04-02/expert-total-livsforandring-behovs-for-att-bryta-utmattning/` (Accessed: 2 April 2025).
+* Deloitte (2021). SAAS Industry Outlook: Time to Ride the Wave Online `https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/technology-media-telecommunications/deloitte-cn-tmt-saas-trend-en-211228.pdf` (Accessed: 31 March 2025).
+* Johansson, Y. (2025). `Expert: Total livsförändring behövs för att bryta utmattning`, Sydsvenskan, 2 April. Available at: `https://www.sydsvenskan.se/2025-04-02/expert-total-livsforandring-behovs-for-att-bryta-utmattning/` (Accessed: 2 April 2025).
 * Ploeg, E.V., & Kleber, R.J. (2003). Acute and chronic job stressors among ambulance personnel: predictors of health symptoms. Occupational and Environmental Medicine, 60, i40 - i46.
 * Allspaw, J. (2012) Blameless PostMortems and a Just Culture. Available at: `https://www.etsy.com/codeascraft/blameless-postmortems` (Accessed: 9 April 2025).
 
