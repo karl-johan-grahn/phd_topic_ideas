@@ -9,8 +9,6 @@ In software development companies, there are some recurring fundamental issues a
 * Team performance is rarely measured and vaguely understood
 * Management performance is rarely measured and vaguely understood
 
-Building on top of leadership by algorithm
-
 Team constellation is important because it fundamentally affects individual performance, team performance, organizational performance, and industry performance. Measuring performance objectively is important because otherwise it becomes subject to subjective interpretations.
 
 The goal of the research is to understand how to improve efficiency of software development teams while maintaining the same level of trust, happiness, and autonomy.
@@ -20,10 +18,6 @@ The model should be flexible with respect to goals. Use linear programming, and 
 Efficiency should be flexible to define, for example by using Data Envelopment Analysis (DEA).
 
 ## Questions/hypotheses
-
-what is the role of leadership in this context
-how is leader-follower relationship affected by optimization of match quality
-how much emotions are needed
 
 * Group efficiency: Optimal number of people in software development teams in terms of economic productivity
 * Which performance-based incentives are relevant for engineers
