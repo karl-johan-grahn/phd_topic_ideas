@@ -10,6 +10,7 @@ The following needs to be included in the application:
 * Brief description and required qualifications of the prospective doctoral student.
     * I am interested in executing an industrial PhD, with the motivation to improve society through knowledge creation. I want to improve efficiency in the software industry in collaboration with research focused universities and profit focused business ventures.
 * Strategic relevance and expected societal impact in a 10-15-year time-frame.
+    * The aim is to contribute to our understanding of algorithmic management in knowledge-intensive firms.
 * Description of how intellectual property rights contractually will be handled.
     * IP rights
 * Budget.
