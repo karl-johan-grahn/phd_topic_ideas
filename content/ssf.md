@@ -15,7 +15,6 @@ The following needs to be included in the application:
     * IP rights
 * Budget.
     * Salary
-    * EEG device
     * Vouchers for experiment participants
     * Conference travel cost
     * Examination ceremony
