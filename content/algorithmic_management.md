@@ -2,20 +2,20 @@
 
 ## Research problem
 
-"I need somebody with a human touch" (Spice Girls, 1997)
+_"I need somebody with a human touch"_ (Spice Girls, 1997)
 
-Algorithms have played an important part in everyday life for millenniums, for example, the world's oldest known recipe is four thousand years old (Barjamovic et al., 2019). Algorithm as a concept was formalized by Al-Khwarizmi in the 9th century (Encyclopaedia Britannica, 2025). With the introduction of Scientific Management by Fredric Taylor in 1910, labor tasks became rationalized with analogue algorithms. With the introduction of computers in the mid 20th century, algorithms became digitalized. During World War II, with the introduction of Management Science and Operations Research, algorithms became specialized for management tasks.
+Algorithms have played an important part in everyday life for millenniums, for example, the world's oldest known recipe is four thousand years old (Barjamovic et al., 2019). Algorithm as a concept was formalized by Al-Khwarizmi in the 9th century (Encyclopaedia Britannica, 2025). With the introduction of Scientific Management (Taylor, 1911), labor tasks became rationalized with analogue algorithms. With the introduction of computers in the mid 20th century, algorithms became digitalized. During World War II, with the introduction of Management Science and Operations Research, algorithms became specialized for management tasks.
 
 In the last decades, with the growth of network infrastructure and increase in compute resources, algorithms have become more present in organizations. With research in data structures and algorithms, they are starting to assist in almost all management tasks that are traditionally performed by humans, such as increasing self-awareness, get feedback, set goals, set priorities, coaching, empowerment, delegation, motivation, conflict resolution, selling, strategy making, marketing, support, project-planning, monitoring, recruitment, retention, training, mentoring, ethics, and morality. If this evolution continues without research, reflection, and constructive criticism, it can lead to the scenario that we get managers without the human touch.
 
-Although management is primarily a functional process, it does serve a social process. As such, management cannot be entirely outsourced to computer-mediated technology, yet neither can it remain completely outside of algorithmic development. Management decisions can be categorized as deterministic or non-deterministic, and based on individualistic or community preferences, with a whole spectrum of possible positions between the extremes:
+Although management is primarily a functional process, it does serve a social process. From personal experience of working in knowledge-intensive firms over the past 20 years, it has always served a critical social role. As such, management cannot be entirely outsourced to computer-mediated technology, yet neither can it remain completely outside of algorithmic development. Management decisions can be categorized as deterministic or non-deterministic, and based on individualistic or community preferences, with a whole spectrum of possible positions between the extremes:
 
 ```mermaid
 quadrantChart
     title Management decision styles
     x-axis Non-deterministic --> Deterministic
-    y-axis Individual --> Group
-    quadrant-1 Law abiding
+    y-axis Individualistic --> Group-influenced
+    quadrant-1 Institutional
     quadrant-2 Team consensus
     quadrant-3 Humanistic subjective
     quadrant-4 Rational
@@ -31,9 +31,9 @@ Similar to the problem of social cost (Coase, 2013), the problem of management c
 
 ## State of the art
 
-Milanez et al. (2025) did a survey of algorithmic management in the workplace, and highlights the need for additional research to ensure trustworthy use of it. The authors suggest five focus areas for further research. First, there is a need to understand the mechanisms by which algorithmic management tools improve managerial decision-making. Second, what impact does algorithmic management have on individual contributors. Third, how does each type of algorithmic management tool influence outcomes and trustworthiness. Fourth, how do the outcomes vary with time since adoption. Fifth, what are the governance measures to consider.
+Milanez et al. (2025) did a survey of algorithmic management in the workplace, and highlights the need for additional research to ensure trustworthy use of it. The authors suggest five focus areas for further research. First, there is a need to understand the mechanisms by which algorithmic management tools improve managerial decision-making. Second, what impact does algorithmic management have on individual contributors. Third, how does each type of algorithmic management tool influence outcomes and trustworthiness. Fourth, how do the outcomes vary over time since they have been adoption. Fifth, what are the governance measures to consider.
 
-Macias et al. (2023) identified two main types of algorithmic management currently in use: algorithmic direction and algorithmic evaluation. At the European level, there is a shortage of research which examines the pervasiveness and impacts on working conditions, of digital monitoring and surveillance in the regular and platform economies (Macias et al., 2023).
+Macias et al. (2023) identified two main types of algorithmic management currently in use: algorithmic direction and algorithmic evaluation. At the European level, there is a shortage of research which examines the pervasiveness and impacts on working conditions, of digital monitoring and surveillance in the regular and platform economies.
 
 Ball (2021) evaluated literature on electronic monitoring and surveillance in the workplace, and recommends future research on topics related to algorithmic management:
 
@@ -41,13 +41,13 @@ Ball (2021) evaluated literature on electronic monitoring and surveillance in th
 * Technical and practical ways in which employees can gain autonomy over data collection and
 sharing and the impact on performance and efficiency
 
-From private conversations over the years, it is clear that not all software engineers want to become managers. Modig (2023) did a well-attended presentation about the desire of staying as a developer in your entire career. Given there is a need for the management role, and not everyone wants to pursue it, to which extend can it be automated with algorithms?
+From private conversations over the years, it is clear that not all software engineers want to become managers. Modig (2023) did a well-attended presentation about the desire of staying as a developer throughout your entire career. Given there is a need for the management role, and not everyone wants to pursue it, to which extend can it be automated with algorithms?
 
 ## Questions/hypotheses
 
-"And all that I can see is just another lemon tree" (Fool's Garden)
+_"And all that I can see is just another lemon tree"_ (Fool's Garden)
 
-The central question to analyze is how to benefit from algorithmic management in terms of total productivity, without making people just see another lemon tree, that is, without reducing their trust and motivation in the workplace.
+The central question to analyze is how to benefit from algorithmic management in terms of total productivity, without making people just see another lemon tree, that is, without reducing their trust in the workplace and their motivation for the work.
 
 Specifically, these questions are relevant for this project:
 
@@ -89,7 +89,7 @@ Use triangulation (Yin, 2003):
 
 Risks:
 
-* How to avoid the Hawthorne Effect - subjects will be part of an experimental study, while at the same time doing their regular work
+* How to avoid the Hawthorne Effect (McCambridge et al., 2014) - subjects will be part of an experimental study, while at the same time doing their regular work
 * To avoid confirmation bias, it is important to be open to information that allows for disconfirmation
 * Use analogical reasoning to reduce bias (Bazerman and Moore, 2017)
 
@@ -109,9 +109,11 @@ Quantitative methods such as Data Envelopment Analysis (DEA) can be used to comp
 * Coase, R. H. (2013). The Problem of Social Cost. The Journal of Law & Economics, 56(4), 837–877. `https://doi.org/10.1086/674872`
 * Fernandez Macias, E., Urzi Brancati, M.C., Wright, S. and Pesole, A. (2023). The platformisation of work, EUR 31469 EN, Publications Office of the European Union, Luxembourg, ISBN 978-92-68-01661-9.
 * Ghauri, P., Grønhaug, K. and Strange, R. (2020). Research Methods in Business Studies (5th ed.). Cambridge: Cambridge University Press.
+* McCambridge, J., Witton, J., & Elbourne, D. R. (2014). Systematic review of the Hawthorne effect: new concepts are needed to study research participation effects. Journal of clinical epidemiology, 67(3), 267–277. `https://doi.org/10.1016/j.jclinepi.2013.08.015`
 * Milanez, A., A. Lemmens and C. Ruggiu (2025). "Algorithmic management in the workplace: New evidence from an OECD employer survey", OECD Artificial Intelligence Papers, No. 31, OECD Publishing, Paris, `https://doi.org/10.1787/287c13c4-en`
 * Oredev Conference (2023). Get old, go slow, write code! [Video]. YouTube. `https://www.youtube.com/watch?v=Hb4M0EMyB6M`
 * Spence, M. (1973). Job Market Signaling. The Quarterly Journal of Economics, 87(3), 355–374. `https://doi.org/10.2307/1882010`
 * Spice Girls (1997). Stop [Song]. On Spiceworld [Album]. Virgin Records.
+* Taylor, F. W. (1911). The principles of scientific management. Harper and Brothers.
 * The Editors of Encyclopaedia Britannica (2025). Al-Khwarizmi | Biography & Facts. Encyclopedia Britannica. `https://www.britannica.com/biography/al-Khwarizmi`
 * Yin, R. K. (2003). Case Study Research: Design and Methods. SAGE.
